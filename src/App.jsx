@@ -1,5 +1,5 @@
 import "./App.css";
-import TicTacToe from "./components/tic-tac-toe";
+import TicTacToe from "./Components/tic-tac-toe";
 
 function App() {
   return <TicTacToe boardSize={4} />;
